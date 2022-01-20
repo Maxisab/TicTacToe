@@ -1,0 +1,3 @@
+create 2 players, designate x to player one and o top player 2
+click on cell to create x or o
+check for wincon
